@@ -7,13 +7,15 @@ This is the fourth project of the Math Magicians application. You will set up th
 - [Math Magicians](https://636a5217b540c60864499f46--voluble-kringle-83abf2.netlify.app/)
 
 -
+
 ## Built With
 
 - HTML
-- CSS 
-- Javascript ES6 
+- CSS
+- Javascript ES6
 - Webpack
 - React
+
 ## Extensions / Plugins
 
 Webpack
@@ -24,17 +26,16 @@ Linters Installed
 -ESLint
 -node_modules checker
 
-
-
 ## Getting Started
+
 - Open GitHub URL of repositry.
 - Download Code repo in zip.
 - Extract and open repo folder into visual studio code or any other Text Editor Software.
 - GitHub Repositry URL: https://github.com/Kaweesi-Matia/math-magicians
   To get a local copy up and running follow these simple example steps.
 
-
 ### Prerequisites
+
 - Visual Studio
 - Knowldege About HTML / CSS / JAVASCRIPT ES6
 - Lighthouse
@@ -44,18 +45,11 @@ Linters Installed
 - node_modules checker
 - Github
 
-
-### Deployment
-- [Linter](https://github.com/microverseinc/linters-config/tree/master/html-css)
-
-
 ## Authors
 
-👤 **Kaweesi Matia**
+👤 **Clarise Umutoni**
 
-- GitHub: [@Kaweesi-Matia](https://github.com/Kaweesi-Matia/math-magicians)
-- Twitter: [@Kaweesi-Matia](https://twitter.com/kaweesimatia)
-- LinkedIn: [@Kaweesi Matia](https://www.linkedin.com/in/kaweesi-matia/)
+- GitHub: [@Clarisse Umutoni](https://cumutoni12.github.io/Math-Calculator/)
 
 ## 🤝 Contributing
 
@@ -69,10 +63,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- microverseinc
-- Inspiration
-- etc
-
-## 📝 License
-https://github.com/MudasirSherwani/math-magicians/blob/main/LICENSE.md
-This project is [MIT](./MIT.md) licensed.
+- VeroSills
