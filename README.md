@@ -1,10 +1,10 @@
-# Math Magicians : Add components
+# Math Calculator : Add components
 
-This is the fourth project of the Math Magicians application. You will set up the environment and tools needed to develop a React application.in this project, i created calcultor component for React. In the following projects, you will develop the actual application.
+This is the fourth project of the Math Calculator application. You will set up the environment and tools needed to develop a React application.in this project, i created calcultor component for React. In the following projects, you will develop the actual application.
 
 ## Website Live Demo Link
 
-- [Math Magicians](https://636a5217b540c60864499f46--voluble-kringle-83abf2.netlify.app/)
+- [Math-Calculator](https://cumutoni12.github.io/Math-Calculator)
 
 -
 
@@ -31,8 +31,6 @@ Linters Installed
 - Open GitHub URL of repositry.
 - Download Code repo in zip.
 - Extract and open repo folder into visual studio code or any other Text Editor Software.
-- GitHub Repositry URL: https://github.com/Kaweesi-Matia/math-magicians
-  To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -63,4 +61,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- VeroSills
+- VeroSkills

@@ -1,27 +1,27 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   const links = [
     {
       id: 1,
-      path: '/home',
-      text: 'Home',
+      path: "/home",
+      text: "Home",
     },
     {
       id: 2,
-      path: '/calculator',
-      text: 'Calculator',
+      path: "/calculator",
+      text: "Calculator",
     },
     {
       id: 3,
-      path: '/quote',
-      text: 'Quote',
+      path: "/quote",
+      text: "Quote",
     },
   ];
   return (
     <div className="nav_bar">
-      <h1 className="heading">Math Magicians</h1>
+      <h1 className="heading">Math Calculator</h1>
       <nav>
         <ul>
           {links.map((link) => (
